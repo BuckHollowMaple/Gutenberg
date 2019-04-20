@@ -10,3 +10,4 @@ Extraction method for Gutenberg books from ZIM file
   - You'll need CasperJS, PhantomJS and Python2.x
   - You'll need to change the directory for books in start.py, to one you prefer
   - If it process stops and KIWIX gives an error, just restart the KIWIX daemon
+  - You might also need zimlib and a few other libraries
